@@ -1,0 +1,12 @@
+**/*.iml
+**/target/
+logs/
+.idea/
+**/bin/
+**.project
+**.classpath
+.git/
+.idea/
+.settings/
+**/rebel.xml
+.service/
